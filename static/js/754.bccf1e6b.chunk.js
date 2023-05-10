@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[754],{1754:function(e,t,c){c.r(t);c(2791);var n=c(184);t.default=function(){return(0,n.jsx)("div",{children:"PrivacyPolicy"})}}}]);
+//# sourceMappingURL=754.bccf1e6b.chunk.js.map
